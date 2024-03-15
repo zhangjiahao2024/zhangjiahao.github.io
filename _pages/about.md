@@ -15,7 +15,7 @@ I will be a Ph.D Student of [The University of Queensland](https://www.uq.edu.au
 
 Contact
 ------
-[Email](zhangjiahao:zhangjiahao@zju.edu.cn)/[Github](https://github.com/zhangjiahao2024)[Wechat](../images/wechat.jpg)
+[Email](zhangjiahao:zhangjiahao@zju.edu.cn)/[Github](https://github.com/zhangjiahao2024)/[Wechat](../images/wechat.jpg)
 
 Please feel free to contact me~
 
