@@ -8,11 +8,17 @@ redirect_from:
 ---
 
 
-I'm a third-year postgraduate student from [School of Civil Engineering And Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/). My research interests include intelligent transportation, traffic simulation, connected and automated vehicles, and decision-making.
+I'm a third-year postgraduate student from [School of Civil Engineering And Architecture](http://www.ccea.zju.edu.cn/cceaenglish/main.psp), [Zhejiang University](https://www.zju.edu.cn/english/).
 
 I will be a Ph.D. Student of [The University of Queensland](https://www.uq.edu.au/) on Oct. 1, 2024.
 
-
+Research Areas
+------
+* Connected and Automated Vehicles
+* Travel Behaviors
+* Decision Making
+* Intelligent Transportation System
+* Smart City
 
 Contact
 ------
