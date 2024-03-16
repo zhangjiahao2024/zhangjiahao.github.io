@@ -30,13 +30,14 @@ Journal Publication
 
 Conference Proceedings
 -------
-* [4] **Zhang, J.**, Qi, H. (2023) Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control. China Automation Congress, Chongqing. (**Accepted**)
-* [3] **Zhang, J.**, Qi, H. (2022) Two-Dimensional Intelligent Driver Model with Vehicular Dynamics. SAE 2022 Intelligent and Connected Vehicles Symposium, Shanghai.([url](https://www.sae.org/publications/technical-papers/content/2022-01-7088/))
+* [5] **Zhang, J.**, Qi, H. (2023) Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control. China Automation Congress, Chongqing. (**Accepted**)
+* [4] **Zhang, J.**, Qi, H. (2022) Two-Dimensional Intelligent Driver Model with Vehicular Dynamics. SAE 2022 Intelligent and Connected Vehicles Symposium, Shanghai.([url](https://www.sae.org/publications/technical-papers/content/2022-01-7088/))
+* [3] Zhang, Y., **Zhang, J.**, Qi, H. (2022) MFD adaptive prediction based on Gaussian process under constraints. 2023 TRB 102nd Annual Meeting, Washington, DC.([url](https://www.researchgate.net/publication/364777558_MFD_adaptive_prediction_based_on_Gaussian_process_under_constraints))
 * [2] Qi, H., Lin, J., Ying, Y., **Zhang, J.** (2022) Stochastic two dimensional car following model by stochastic differential equation. 2022 IEEE 25th international conference on intelligent transportation systems (ITSC), Macau.([url](https://ieeexplore.ieee.org/abstract/document/9921829))
 * [1] Qi, H., Ying, Y., **Zhang, J.** (2022) Two-Dimensional Intelligent Driver Model with Vehicular Dynamics. 2022 IEEE Intelligent Vehicles Symposium (IV), Shanghai.([url](https://ieeexplore.ieee.org/abstract/document/9827388))
 
 
 Patents
 -------
-* [2] **张家豪**, 祁宏生, 章宇凯.基于虚拟边界的二维智能驾驶模型的车辆轨迹预测方法.CN114228710A.2022-03-25.
-* [1] 潘越, **张家豪**, 祁宏生.基于整数规划的公共交通系统疫情传播阻断方法.CN114999668A.2022-09-02.
+* [2] **张家豪**, 祁宏生, 章宇凯.基于虚拟边界的二维智能驾驶模型的车辆轨迹预测方法.CN114228710A.2022-03-25. ([url](https://kns.cnki.net/kcms2/article/abstract?v=8C_-cGYG31Ftt0ibJovXYK5MSqlwI3-5iyBAiAok-3-gdLM9gxeud914pQz4O-lP6UZPbFOJPYdGADXLwWHWDFpcGz8iCoZZOyUHte8HXh8qgfgltFsYndrzIRO3J5HZOxNp8YnZhUE=&uniplatform=NZKPT&language=CHS))
+* [1] 潘越, **张家豪**, 祁宏生.基于整数规划的公共交通系统疫情传播阻断方法.CN114999668A.2022-09-02. ([url](https://kns.cnki.net/kcms2/article/abstract?v=8C_-cGYG31El1hyMbOwcsxsyXRVhFNgWKhUhYYAdAAiva3t9GkIK068HjkZVxQsDTqaxet7DIiL7hSAQb8nBBTkooF9huWPkZLa1kq7QEaG8XXDjgOEgfLpILAbiVUvMV3fN_7DXzUY=&uniplatform=NZKPT&language=CHS))
