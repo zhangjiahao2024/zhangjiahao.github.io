@@ -32,7 +32,7 @@ Awards & Scholarships
 * Outstanding Graduate Leader Award of Zhejiang University on 2021-2022, (**2022**)
 * Award of Honor for Graduate award of Zhejiang University on 2021-2022, (**2022**)
 
---- **Undergraduate state**\
+--- **Undergraduate state**
 * The Second Prize of the 15th National Competition of Transport Science and Technology For Undergraduate Students, (**2020**)
 * The Second Prize of 10th China Undergraduate Physics Tournament, (**2019**)
 * First Prize of Group A Beijing of 2019 "HEP" Cup China Undergraduate Mathematical Contest in Modeling, (**2019**)
