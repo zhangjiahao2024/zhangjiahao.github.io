@@ -39,7 +39,7 @@ Awards & Scholarships
 * The First prize in the 9th Beijing University Student Transportation Science and Technology Competition, (**2019**)
 * The Second Prize of China Undergraduate Physics Tournament (North China) held by Beijing Normal University, (**2019**)
 * The Third Prize in The 11th Undergraduate Physical Experiment Competition of Beijing, (**2018**)
-* Awarded as the China National Student Innovation Development Program at Beijing Jiaotong University, **2020**
+* Awarded as the China National Student Innovation Development Program at Beijing Jiaotong University, (**2020**)
 * The Second prize of the Undergraduate Physical Experiment Competition of Beijing Jiaotong University, (**2019**)
 * Honorary title of “Merit Student” of Beijing Jiaotong University in the 2019-2020 academic year, (**2020**)
 * "Talent Award" of Beijing Jiaotong University for the 2019-2020, (**2020**)
