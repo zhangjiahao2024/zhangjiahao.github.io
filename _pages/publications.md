@@ -19,7 +19,7 @@ author_profile: true
 
 Journal Publication
 ----------
-* [7] **Zhang, J.**, Qi, H. (2024) Intelligent Driving Model Considering Vehicular Dynamics and Heterogeneous Road Environments. Transportation Letters: the International Journal of Transportation Research. (**Accepted**) ([url](https://doi.org/10.1080/19427867.2024.2329469))
+* [7] **Zhang, J.**, Qi, H. (2024) Intelligent Driving Model Considering Vehicular Dynamics and Heterogeneous Road Environments. Transportation Letters: the International Journal of Transportation Research. ([url](https://doi.org/10.1080/19427867.2024.2329469))
 * [6] **Zhang, J.**, Zhang, Y. Qi, H. (2021) Two-dimensional intelligent driving model and application based on virtual boundary. Journal of Harbin Institute of Technology, 55(7), 15-23. ([url](http://hit.alljournals.cn/html/hitxb_cn/2023/7/20230703.html))
 * [5] Qi, H., Cheng, C., Hu, X., **Zhang, J.** (2022) Online inference of lane changing events for connected and automated vehicle applications with analytical logistic diffusion stochastic differential equation. Transportation Research Part C: Emerging Technologies, 144, 103874. ([url](https://doi.org/10.1016/j.trc.2022.103874))
 * [4] Zhang Y., **Zhang, J.**, Qi, H. (2022) Intersection Outlet Saturation Flow Rate (OSFR) Considering Game Behavior Within Intersection. IEEE Access, 10, 112629-112638. ([url](https://ieeexplore.ieee.org/abstract/document/9878314))
