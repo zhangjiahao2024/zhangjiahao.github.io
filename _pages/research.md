@@ -4,8 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
-Recent Research 
+Ongoing 
 -----------
 
 * Multi-lane Game Platoon Strategy of Connected Automated Vehicles in the Mixed Traffic Flow Environment, 2024.
+
 
