@@ -30,7 +30,7 @@ Journal Publication
 
 Conference Proceedings
 -------
-* [5] **Zhang, J.**, Qi, H. (2023) Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control. China Automation Congress, Chongqing. (**Accepted**)
+* [5] **Zhang, J.**, Qi, H. (2023) Driving Maneuver Estimation for Naturalist Driving Data with State Space Model Predictive Control. China Automation Congress, Chongqing. ([URL](https://doi.org/10.1109/CAC59555.2023.10450846))
 * [4] **Zhang, J.**, Qi, H. (2022) Two-Dimensional Intelligent Driver Model with Vehicular Dynamics. SAE 2022 Intelligent and Connected Vehicles Symposium, Shanghai.([url](https://www.sae.org/publications/technical-papers/content/2022-01-7088/))
 * [3] Zhang, Y., **Zhang, J.**, Qi, H. (2022) MFD adaptive prediction based on Gaussian process under constraints. 2023 TRB 102nd Annual Meeting, Washington, DC.([url](https://www.researchgate.net/publication/364777558_MFD_adaptive_prediction_based_on_Gaussian_process_under_constraints))
 * [2] Qi, H., Lin, J., Ying, Y., **Zhang, J.** (2022) Stochastic two dimensional car following model by stochastic differential equation. 2022 IEEE 25th international conference on intelligent transportation systems (ITSC), Macau.([url](https://ieeexplore.ieee.org/abstract/document/9921829))
