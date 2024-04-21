@@ -27,7 +27,6 @@ Please feel free to contact me~
 
 Visitors
 ------
-<a href="https://info.flagcounter.com/WK6Q"><img src="https://s11.flagcounter.com/map/WK6Q/size_s/txt_FC0A53/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0">
-</a>
+<a href="http://s11.flagcounter.com/more/czS"><img src="https://s11.flagcounter.com/count/czS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
