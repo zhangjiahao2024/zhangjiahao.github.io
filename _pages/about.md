@@ -25,6 +25,7 @@ Contact
 Please feel free to contact me~
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zhangjiahao.github.io)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://zhangjiahao2024.github.io/zhangjiahao.github.io/)
+
 
 
