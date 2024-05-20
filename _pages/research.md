@@ -7,6 +7,6 @@ author_profile: true
 Ongoing 
 -----------
 
-* Multi-lane Game Platoon Strategy of Connected Automated Vehicles in the Mixed Traffic Flow Environment, 2024.
+* Traffic System Optimization in the Intersection for Connected and Automated Vehicles, 2024.
 
 
