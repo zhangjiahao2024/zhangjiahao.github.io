@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I will be a Ph.D. Student of [The University of Queensland](https://www.uq.edu.au/) on Oct. 1, 2024, and supervised by [Prof. Zuduo Zheng](https://researchers.uq.edu.au/researcher/20105). My research primarily focuses on Connected and Automated Vehicles (CAV), Driving Behaviors, Intersection, etc.
+I will be a Ph.D. Student of [The University of Queensland](https://www.uq.edu.au/) on Oct., 2024, supervised by [Prof. Zuduo Zheng](https://researchers.uq.edu.au/researcher/20105). My research primarily focuses on Connected and Automated Vehicles (CAV), Driving Behaviors, Intersection, etc.
 
 Research Areas
 ------
