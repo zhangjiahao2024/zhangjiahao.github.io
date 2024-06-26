@@ -8,15 +8,16 @@ redirect_from:
 ---
 
 
-I will be a Ph.D. Student of [The University of Queensland](https://www.uq.edu.au/) on Oct. 2024, supervised by [Prof. Zuduo Zheng](https://researchers.uq.edu.au/researcher/20105). My research primarily focuses on Connected and Automated Vehicles (CAV), Driving Behaviors, Intersection, etc.
+I graduated from [Zhejiang University](https://www.zju.edu.cn/english/) and obtained my Master's Degree, supervised by Associate [Prof. Hongsheng Qi](https://person.zju.edu.cn/qihongsheng). I will be a Ph.D. Student of [The University of Queensland](https://www.uq.edu.au/) on Oct. 2024, supervised by [Prof. Zuduo Zheng](https://researchers.uq.edu.au/researcher/20105). My research primarily focuses on Connected and Automated Vehicles (CAV), Driving Behaviors, Intersection, etc.
 
 Research Areas
 ------
 * Connected and Automated Vehicles
 * Travel Behaviors
 * Decision Making
+* Intersection
 * Intelligent Transportation System
-* Smart City
+
 
 Contact
 ------
